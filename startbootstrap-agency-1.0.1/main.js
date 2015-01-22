@@ -1,0 +1,1 @@
+//if after certain time, say "Good morning" vs "Good afternoon" vs "Good evening" vs if it doesn't know the time then say "Good day!"
